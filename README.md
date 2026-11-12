@@ -19,8 +19,10 @@ Projeto	Descrição	Tecnologias
 Nome do projeto 1	Uma frase sobre o problema e o resultado	Python, SQL
 Nome do projeto 2	Uma frase sobre o problema e o resultado	Power BI
 Nome do projeto 3	Uma frase sobre o problema e o resultado	SQL
+
+
 Contato
-LinkedIn: adicione seu link
+LinkedIn: https://www.linkedin.com/in/carlos-augusto-martins-chaves-alves-b7747b38a/
 E-mail: carlosaugusto7192@gmail.com
 <!--
 **carlosaugusto792/carlosaugusto792** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
