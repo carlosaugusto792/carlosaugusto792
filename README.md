@@ -15,9 +15,11 @@ Stack
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 Projetos em destaque
-Projeto	Descrição	Tecnologias
+
 Nome do projeto 1	Uma frase sobre o problema e o resultado	Python, SQL
+
 Nome do projeto 2	Uma frase sobre o problema e o resultado	Power BI
+
 Nome do projeto 3	Uma frase sobre o problema e o resultado	SQL
 
 
