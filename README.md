@@ -1,5 +1,7 @@
 ## Hi there 👋
-Eu sou o Carlos, Cientista de Dados em formação | 5 anos em Customer Success | Direito (PUC Minas) 
+Eu sou o Carlos, Cientista de Dados em formação 
+| 5 anos em Customer Success | Direito (PUC Minas) 
+
 📍Belo Horizonte, MG 
 
 Cursando Ciência de Dados na Faculdade SENAI-FIEMG (previsão 2028). 
