@@ -1,5 +1,5 @@
 ## Hi there 👋
-Oi, eu sou o Carlos (Guto) 👋 Cientista de Dados em formação | 5 anos em Customer Success | Direito (PUC Minas) 📍Belo Horizonte, MG Cursando Ciência de Dados na Faculdade SENAI-FIEMG (previsão 2028). Transformamos indicadores de satisfação e operação (CSAT, NPS) em dashboards e recomendações que apoiam decisões de clientes e gestão.
+Eu sou o Carlos, Cientista de Dados em formação | 5 anos em Customer Success | Direito (PUC Minas) 📍Belo Horizonte, MG Cursando Ciência de Dados na Faculdade SENAI-FIEMG (previsão 2028). Transformamos indicadores de satisfação e operação (CSAT, NPS) em dashboards e recomendações que apoiam decisões de clientes e gestão.
 
 O que me diferencia:
 
