@@ -21,13 +21,6 @@ Stack
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
-Projetos em destaque
-
-Nome do projeto 1	Uma frase sobre o problema e o resultado	Python, SQL
-
-Nome do projeto 2	Uma frase sobre o problema e o resultado	Power BI
-
-Nome do projeto 3	Uma frase sobre o problema e o resultado	SQL
 
 
 Contato
